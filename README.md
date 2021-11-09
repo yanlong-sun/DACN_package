@@ -1,3 +1,18 @@
+# DACN
+Deep Active Contour Network for Medical Image Segmentation
+## Results  
+- test on brainsuite data:  
+![image](https://github.com/yanlong-sun/DACN/blob/main/result_final.png)  
+
+## Network structure  
+- Dense Unet Structure  
+![image](https://github.com/yanlong-sun/DACN/blob/main/Dense%20Unet%20Structure.png)  
+
+- DACN Structure  
+![image](https://github.com/yanlong-sun/DACN/blob/main/DACN%20Structure.png)
+
+
+
 ## **Package Usage**
 
 #### **Install Matlab, python engines and Toolbox**  
